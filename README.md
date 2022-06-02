@@ -6,10 +6,10 @@
 
 # Connect with me:
  <a href="https://www.linkedin.com/in/murillodsr/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="25"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="murillodsr" height="40" width="25"/>
   </a>
    <a href="https://twitter.com/murillodsr/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="25"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="murillodsr" height="40" width="25"/>
   </a>
   
 📫 or through as murillodsr@gmail.com 
@@ -19,7 +19,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="35" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="35" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="35" /></a>       
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="35"/></a>
+
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="35" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="35" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="30"/></a>
