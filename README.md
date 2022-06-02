@@ -9,7 +9,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="25"/>
   </a>
    <a href="https://twitter.com/murillodsr/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="25"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="25"/>
   </a>
   
 📫 or through as murillodsr@gmail.com 
