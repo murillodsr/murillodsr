@@ -7,8 +7,8 @@
 </div>
 <div>
   you can find me as @murillodsr on  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" link="https://www.linkedin.com/in/murillodsr/" height="40" width="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" link="https://twitter.com/murillodsr "height="40" width="25" /><br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" url="https://www.linkedin.com/in/murillodsr/" height="40" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" url="https://twitter.com/murillodsr "height="40" width="25" /><br/>
         
             
    📫  or through e-mail murillodsr@gmail.com </p>
@@ -17,7 +17,6 @@
 
 - 🔭 I’m currently working on @MS
 - 🌱 I’m currently learning 
-
 
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="35" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="35"/>
