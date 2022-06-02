@@ -4,17 +4,17 @@
     My name is Murillo, i'm from Porto Alegre-RS, Brazil. I love my family, my wife and my dog. I like soccer, music and technoly, I'm currently study javascript and    react.JS. I own experience in the area of technical support with knowledge of ITIL procedures. I seek to enter the job market as a developer with an emphasis on the web market. I'm a computer technician and I'm graduating in computer engineering at the end of this year. I'm  determined, ambitious and positive.
 </div>
 
-# Connect with me:
+## 📫 Connect with me:
  <a href="https://www.linkedin.com/in/murillodsr/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="murillodsr" height="45" width="25"/>
   </a>
    <a href="https://twitter.com/murillodsr/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="murillodsr" height="45" width="25"/>
   </a>
+  <a href = "mailto:murillodsr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-📫 or through as murillodsr@gmail.com 
 
-# 🌱 Languages and Tools: 
+## 🌱 Languages and Tools: 
 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="25" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="25" /></a>
@@ -26,7 +26,13 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="25" /></a>
           
           
-- 🔭 I’m currently working on @MS                                                                                                                 
+## 🔭 I’m currently working on @MS                                                                                                                 
 
+
+<div>
+<a href="https://github.com/murillodsr">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
     
 #### see you later!! 👋
