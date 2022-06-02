@@ -12,10 +12,10 @@
 
 ## 📫 Connect with me:
  <a href="https://www.linkedin.com/in/murillodsr/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="murillodsr" height="60" width="25"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="murillodsr" height="70" width="40"/>
   </a>
    <a href="https://twitter.com/murillodsr/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="murillodsr" height="60" width="25"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="murillodsr" height="70" width="40"/>
   </a>
   <a href = "mailto:murillodsr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
