@@ -5,14 +5,16 @@
  
 
 ## 📫 Connect with me:
- <a href="https://www.linkedin.com/in/murillodsr/">
+ <a href="https://www.linkedin.com/in/murillodsr/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="murillodsr" height="70" width="35"/>
   </a>
-   <a href="https://twitter.com/murillodsr/">
+   <a href="https://twitter.com/murillodsr/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="murillodsr" height="70" width="35"/>
   </a>
     <br>
-  <a href = "mailto:murillodsr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:murillodsr@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
     
   
 ## 🌱 Languages and Tools: 
