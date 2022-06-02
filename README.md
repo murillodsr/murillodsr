@@ -8,25 +8,23 @@
 <div>
   you can find me as @murillodsr on  
   <a href="https://www.linkedin.com/in/murillodsr/"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="25"/>
   </a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" url="https://twitter.com/murillodsr "height="40" width="25" /><br/>
-        
+  <a href="https://twitter.com/murillodsr">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" "height="40" width="25" /><br/>
+  </a>  
             
    📫  or through e-mail murillodsr@gmail.com </p>
 
-## see you later!!
 
 - 🔭 I’m currently working on @MS
 - 🌱 I’m currently learning 
+<a href">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="35" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="35"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="35" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="35" />
+              
                    
-            
           
-          
-
-
-
+## see you later!!
