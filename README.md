@@ -4,17 +4,17 @@
     My name is Murillo, i'm from Porto Alegre-RS, Brazil. I love my family, my wife and my dog. I like soccer, music and technoly, I'm currently study javascript and    react.JS. I own experience in the area of technical support with knowledge of ITIL procedures. I seek to enter the job market as a developer with an emphasis on the web market. I'm a computer technician and I'm graduating in computer engineering at the end of this year. I'm  determined, ambitious and positive.
 </div>
 
-
+<div>
 🔭 I’m currently working on @MS 
-
+</div>
 
 
 ## 📫 Connect with me:
  <a href="https://www.linkedin.com/in/murillodsr/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="murillodsr" height="55" width="25"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="murillodsr" height="60" width="25"/>
   </a>
    <a href="https://twitter.com/murillodsr/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="murillodsr" height="55" width="25"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="murillodsr" height="60" width="25"/>
   </a>
   <a href = "mailto:murillodsr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
