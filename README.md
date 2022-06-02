@@ -15,6 +15,9 @@
 📫 or through as murillodsr@gmail.com 
 
 # 🌱 Languages and Tools: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="30"/>
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-iginal.svg" height="60" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="35" />
