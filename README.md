@@ -1,7 +1,7 @@
 # Hi there 👋 Welcome!!
 
 <div>
-    My name is Murillo, i'm from Porto Alegre-RS, Brazil. I love my family, my wife and my dog.  I like soccer, music and technology, I'm currently study javascript and    react.js. I own experience in the area of technical support with knowledge of ITIL procedures. I'm a computer technician and I'm graduating in computer engineering at the end of this year. I’m currently working on Freelancer.com and Fineasy Tech.
+    My name is Murillo, i'm from Porto Alegre-RS, Brazil. I like soccer, music and technology, I'm currently study javascript, node.js and react.js. I own experience web developer and IT Analyst. I'm a computer engineering and computer technician. I’m currently working for Fineasy Tech and Freelancer.com.
  
 
 ## 📫 Connect with me:
