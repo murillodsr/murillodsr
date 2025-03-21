@@ -13,8 +13,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="35"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="35" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="35" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="35" /></a>
-          
+         
                 
 ## 🔭 GitHub Stats: 
 <div>
